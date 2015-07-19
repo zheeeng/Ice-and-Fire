@@ -12,16 +12,16 @@ UI部分80$取自DOTA THEME MANAGER
 ##截图
 
 软件截图  
-![software](intro/0.jpg)
+![software](https://cloud.githubusercontent.com/assets/1303154/8766989/4234ece4-2e7f-11e5-9770-3a0243e30e67.jpg)
 
 游戏主界面  
-![main](intro/1.jpg)
+![main](https://cloud.githubusercontent.com/assets/1303154/8766992/47db2262-2e7f-11e5-8372-c00b8a366696.jpg)
 
 载入界面  
-![loading](intro/2.jpg)
+![loading](https://cloud.githubusercontent.com/assets/1303154/8766993/4a2531d4-2e7f-11e5-8801-eb32fb3279da.jpg)
 
 地形展示
-![texture](intro/3.jpg)
+![texture](https://cloud.githubusercontent.com/assets/1303154/8766994/4b87e9ae-2e7f-11e5-872d-84d104832018.jpg)
 
 *完成于 2011-02-15*
 
